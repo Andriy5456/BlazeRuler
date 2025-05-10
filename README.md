@@ -1,0 +1,1 @@
+Landing page for BlazeRuler (BRR) — the fiery, hype-driven meme token. Built in pure HTML & CSS with a blazing gradient, bold typography and fully responsive layout. Includes a Hero section, About blurb, simple Roadmap and links to our Twitter @Blaze_Ruler.
